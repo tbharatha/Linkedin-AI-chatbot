@@ -1,0 +1,8 @@
+selenium
+beautifulsoup4
+xlsxwriter
+pandas
+python-dotenv
+streamlit
+groq
+openai
